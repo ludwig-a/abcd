@@ -1,0 +1,34 @@
+#python-virtualenv
+#virtualenv venv -> inside root folder
+#  virtualenv -p python3 venv
+# source venv/bin/activate // or deactivate
+#  virtualenv -p python3 venv
+# source venv/bin/activate
+# .gitignore -> venv
+#python -m pip install flask
+
+
+# server :
+# python -m flask run
+
+# virtualenv env
+# source venv/bin/activate // or deactivate
+# pip3 install pandas
+# pip3 install matplotlib
+# pip3 install mplfinance
+
+
+#print(data.iloc[0, 0])
+
+
+Tu es un programmeur python expérimenté spécialisé dans la conception de logiciels de trading. Je suis un débutant dans le langage de programmation Python. Tu dois donc m'expliquer les choses clairement.
+Je veux créer un logiciel de trading écrit en Python. Mon projet est contenu dans un dossier nommé trading. A l'intérieur de ce dossier, j'ai un dossier env, un fichier app.py, un fichier EURUSD.csv, et un fichier index.html.
+Le fichier CSV contient les colonnes suivante : Date, Open, High,Low, Close, Adj Close, Volume. Ce fichier contient une centaine de lignes.
+
+Mon objectif est de créer une interface graphique représentant les données contenues dans le fichier EURUSD.csv. Pour réaliser cette objectif, le code sera écrit dans le fichier app.py. 
+
+Pour l'interface graphique, j'utilise matplotlib. Pour accéder aux données contenus dans le fichier EURUSD.csv, j'utilise pandas.
+
+L'interface graphique doit représentée les données contenus dans le fichiers EURUSD.csv sous la forme de chandeliers japonais.
+
+génére-moi le code pour que je puisse réaliser mon objectif.
